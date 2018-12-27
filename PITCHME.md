@@ -3,7 +3,6 @@
 SEOUL_8_이름 https://github.com/본인계정
 
 ---
----
 
 ## I. 스펙(Specification)
 잡코리아에서 IT 직무 채용 정보를 보여줍니다.
